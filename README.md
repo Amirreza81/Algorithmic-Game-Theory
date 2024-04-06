@@ -1,2 +1,2 @@
 # Algorithmic-Game-Theory
-Project of agt course
+All documentations of AGT course - Sharif University of Technology
