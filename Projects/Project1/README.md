@@ -13,5 +13,18 @@ I applied two different kind of LP for this question.
 
 Second one is an easier implementation using M + N variables. You can see more details [here](Amirreza81/Algorithmic-Game-Theory/Projects/Project1/LP.png).
 
+<br _>
+
+An example:
+<br _>
+Input:
+
+> 3 2
+> 8 -5
+> -3 4
+> -5 -4
+> 8 9
+> 1 -2
+> 8 5
 
 ## Q2 - Correlated Equilibrium
