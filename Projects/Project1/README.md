@@ -28,4 +28,20 @@ Input:
 1 -2
 8 5
 ```
+
+Output:
+
+```
+0.750000 0.250000 0.000000 
+0.450000 0.550000
+```
+
+Suppose two players wants to play a game. in this example, player 1 has 3 actions and player2 has 2 actions. After N lines we get 
+the utilities of player1 and after N lines we get utilities of player2. The table of utilities is equal to:
+
+```
+(8, 8)  | (-5, 9)
+(-3, 1) | (4, -2)
+(-5, 8) | (-4, 5)
+```
 ## Q2 - Correlated Equilibrium
