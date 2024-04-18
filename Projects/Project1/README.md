@@ -41,9 +41,18 @@ the utilities of player1 and after N lines we get utilities of player2. The tabl
 
 ```
 (8, 8)  | (-5, 9)
----------------------
+------------------
 (-3, 1) | (4, -2)
----------------------
+------------------
 (-5, 8) | (-4, 5)
 ```
+
+The mixed nash eqilibrium here shows the strategy of each player:
+
+```
+player1 -> (0.75, 0.25, 0)
+player2 -> (0.45, 0.55)
+```
+
+
 ## Q2 - Correlated Equilibrium
