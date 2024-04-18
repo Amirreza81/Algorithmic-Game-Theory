@@ -15,9 +15,10 @@ Second one is an easier implementation using M + N variables. You can see more d
 
 <br _>
 
-An example:
+### An example:
 <br _>
-Input:
+
+**Input:**
 
 ```
 3 2
@@ -29,7 +30,7 @@ Input:
 8 5
 ```
 
-Output:
+**Output:**
 
 ```
 0.750000 0.250000 0.000000 
@@ -47,7 +48,7 @@ the utilities of player1 and after N lines we get utilities of player2. The tabl
 (-5, 8) | (-4, 5)
 ```
 
-The mixed nash eqilibrium here shows the strategy of each player:
+The *mixed nash eqilibrium* here shows the strategy of each player:
 
 ```
 player1 -> (0.75, 0.25, 0)
